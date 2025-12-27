@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Counter-Strike 2 - Tin Tức</title>
+    <link rel="stylesheet" href="css/news.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Stratum:wght@400;500;600;700;900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <!-- Navigation -->
+    <nav class="navbar">
+      <div class="nav-container">
+        <div class="nav-logo">
+          <img
+            src="assets/images/news/capsule_616x353.jpg"
+            alt="CS2 Logo"
+            class="logo-img"
+          />
+        </div>
+        <ul class="nav-menu" id="navMenu">
+          <li><a href="index.html">TRANG CHỦ</a></li>
+          <li><a href="news.html" class="active">TIN TỨC</a></li>
+          <li><a href="maps.html">BẢN ĐỒ</a></li>
+          <li><a href="weapons.html">VŨ KHÍ</a></li>
+          <li><a href="esports.html">ESPORTS</a></li>
+        </ul>
+        <div class="nav-actions">
+          <button class="play-btn">🎮 CHƠI MIỄN PHÍ</button>
+          <span class="player-count">Người chơi hàng tháng: 30,115,028</span>
+        </div>
+        <div class="nav-toggle" id="navToggle">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Hero Banner -->
+    <section class="hero-banner">
+      <div class="hero-image"></div>
+    </section>
+
+    <!-- News Tabs -->
+    <section class="news-tabs-section">
+      <div class="container">
+        <div class="news-tabs">
+          <button class="tab-btn active" data-tab="all">TIN TỨC</button>
+          <button class="tab-btn" data-tab="updates">CẬP NHẬT</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- News Content -->
+    <section class="news-content-section">
+      <div class="container">
+        <div class="news-list" id="newsList"></div>
+
+        <!-- Load More -->
+        <div class="load-more-container">
+          <button class="load-more-btn" id="loadMoreBtn">
+            XEM THÊM TIN TỨC
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="container">
+        <div class="footer-content">
+          <div class="footer-section">
+            <h3 class="footer-title">COUNTER-STRIKE 2</h3>
+            <p class="footer-text">
+              Trải nghiệm thế hệ tiếp theo của game bắn súng chiến thuật huyền
+              thoại.
+            </p>
+          </div>
+          <div class="footer-section">
+            <h4 class="footer-heading">Liên kết</h4>
+            <ul class="footer-links">
+              <li><a href="index.html">Trang chủ</a></li>
+              <li><a href="news.html">Tin tức</a></li>
+              <li><a href="maps.html">Bản đồ</a></li>
+              <li><a href="weapons.html">Vũ khí</a></li>
+            </ul>
+          </div>
+          <div class="footer-section">
+            <h4 class="footer-heading">Cộng đồng</h4>
+            <ul class="footer-links">
+              <li><a href="#">Discord</a></li>
+              <li><a href="#">Twitter</a></li>
+              <li><a href="#">Reddit</a></li>
+              <li><a href="#">YouTube</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="footer-bottom">
+          <p>
+            &copy; 2025 Counter-Strike 2. Website giáo dục do sinh viên thực
+            hiện.
+          </p>
+        </div>
+      </div>
+    </footer>
+
+    <script src="js/news.js"></script>
+  </body>
+</html>

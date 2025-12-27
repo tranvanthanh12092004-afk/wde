@@ -6,7 +6,7 @@ const newsData = [
     title: "PGL Major Copenhagen 2026: Lịch trình chính thức",
     excerpt:
       "PGL Major Copenhagen 2026 chính thức công bố lịch thi đấu từ 15-25/3/2026 tại Royal Arena, Denmark. 24 đội tuyển hàng đầu thế giới sẽ tranh tài với tổng giải thưởng 1.25 triệu USD. Vòng Challengers bắt đầu 15/3, Legends Stage 19/3, và Champions Stage diễn ra 23-25/3.",
-    image: "assets/images/news/Screenshot_1-72.png",
+    image: "assets/images/Screenshot_1-72.png",
     category: "tournament",
   },
   {
@@ -15,7 +15,7 @@ const newsData = [
     title: "Team Vitality vô địch IEM Katowice 2025",
     excerpt:
       "Team Vitality đã xuất sắc đánh bại FaZe Clan với tỷ số 3-1 trong trận chung kết IEM Katowice 2025. ZywOo tỏa sáng với rating 1.42, được bầu chọn là MVP của giải đấu. Đây là chức vô địch IEM thứ 3 trong sự nghiệp của Vitality.",
-    image: "assets/images/news/1696-thumb.jpg",
+    image: "assets/images/1696-thumb.jpg",
     category: "tournament",
   },
   {
@@ -25,7 +25,7 @@ const newsData = [
     excerpt:
       "BLAST Premier World Final 2025 bước vào giai đoạn knockout với FaZe Clan và G2 Esports giành vé vào tứ kết. NiKo ghi 112 kills trong 3 map, phá kỷ lục giải đấu. Bán kết sẽ diễn ra vào 28/12 tại Singapore.",
     image:
-      "assets/images/news/475790557_1170702204420913_3386564230829079001_n.jpg",
+      "assets/images/475790557_1170702204420913_3386564230829079001_n.jpg",
     category: "tournament",
   },
   {
@@ -35,7 +35,7 @@ const newsData = [
     excerpt:
       "Natus Vincere (NAVI) hoàn thành vòng bảng ESL Pro League Season 21 với thành tích toàn thắng 5-0. s1mple trở lại phong độ đỉnh cao với KD ratio 1.58. NAVI sẽ đối đầu với Cloud9 ở vòng playoff.",
     image:
-      "assets/images/news/68fcb09430147d5d84abae0502028aa50b6d931faf9fc00b31abb82781.jpg",
+      "assets/images/68fcb09430147d5d84abae0502028aa50b6d931faf9fc00b31abb82781.jpg",
     category: "tournament",
   },
   {
@@ -44,7 +44,7 @@ const newsData = [
     title: "Liquid giành vé đến Copenhagen Major qua RMR Americas",
     excerpt:
       "Team Liquid chính thức giành vé đến PGL Major Copenhagen sau chiến thắng tại RMR Americas. Đội hình với TwistzZ và NAF đã thắng 3-0 trước FURIA trong trận chung kết. Complexity và paiN Gaming cũng giành được slot Challengers.",
-    image: "assets/images/news/20250421_Enos-Ku_IEM-Melbourne_02270-scaled.jpg",
+    image: "assets/images/20250421_Enos-Ku_IEM-Melbourne_02270-scaled.jpg",
     category: "tournament",
   },
   {
@@ -53,7 +53,7 @@ const newsData = [
     title: "Heroic công bố đội hình mới cho Major 2026",
     excerpt:
       "Heroic chính thức công bố đội hình mới với sự gia nhập của frozen từ MOUZ và NertZ từ OG. Đội tuyển Denmark này đặt mục tiêu top 4 tại PGL Major Copenhagen 2026 trên sân nhà. TeSeS sẽ tiếp tục là IGL của đội.",
-    image: "assets/images/news/image_processing20250110-1-r6meeq.jpg",
+    image: "assets/images/image_processing20250110-1-r6meeq.jpg",
     category: "tournament",
   },
   {
@@ -63,7 +63,7 @@ const newsData = [
     excerpt:
       "HLTV bắt đầu công bố danh sách Top 20 cầu thủ xuất sắc nhất năm 2025. ZywOo (Vitality), NiKo (G2) và s1mple (NAVI) được dự đoán sẽ cạnh tranh vị trí số 1. Top 3 sẽ được công bố vào 31/12/2025.",
     image:
-      "assets/images/news/605738281_1415846483239816_2249124724215381300_n.jpg",
+      "assets/images/605738281_1415846483239816_2249124724215381300_n.jpg",
     category: "tournament",
   },
   {
@@ -72,7 +72,7 @@ const newsData = [
     title: "FaZe Clan ký hợp đồng với tân binh jcobbb",
     excerpt:
       "FaZe Clan chính thức công bố ký hợp đồng với jcobbb, tài năng trẻ 18 tuổi từ Polish. Jcobbb sẽ thay thế Twistzz trong đội hình. Đây là lần đầu tiên FaZe chiêu mộ cầu thủ trẻ từ Tier 2 với mức phí chuyển nhượng cao kỷ lục.",
-    image: "assets/images/news/hq720.jpg",
+    image: "assets/images/hq720.jpg",
     category: "tournament",
   },
   {
@@ -81,7 +81,7 @@ const newsData = [
     title: "ENCE giành vé đến Major qua RMR Europe",
     excerpt:
       "ENCE Esports xuất sắc vượt qua RMR Europe và giành vé trực tiếp đến Legends Stage của PGL Major Copenhagen. Đội tuyển Finland đánh bại Monte 2-1 trong trận quyết định với màn trình diễn ấn tượng của dycha.",
-    image: "assets/images/news/ence.jpg",
+    image: "assets/images/ence.jpg",
     category: "tournament",
   },
   {
@@ -90,7 +90,7 @@ const newsData = [
     title: "MOUZ vs Astralis: Trận derby Đức-Đan Mạch",
     excerpt:
       "Trận đấu kinh điển giữa MOUZ và Astralis thu hút hơn 500,000 người xem trực tiếp. MOUZ giành chiến thắng 2-1 với overtime kịch tính trên Inferno. Frozen ghi 34 kills trên map cuối cùng để mang về chiến thắng.",
-    image: "assets/images/news/hq720 (1).jpg",
+    image: "assets/images/hq720 (1).jpg",
     category: "tournament",
   },
 ];
@@ -294,3 +294,4 @@ window.addEventListener("load", () => {
   const loadTime = performance.now();
   console.log(`⚡ Page loaded in ${loadTime.toFixed(2)}ms`);
 });
+
